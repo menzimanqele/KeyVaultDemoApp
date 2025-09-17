@@ -1,0 +1,1 @@
+This KeyVault Demo is based on the folling training from Microsoft -> https://learn.microsoft.com/en-gb/training/modules/manage-secrets-with-azure-key-vault/
